@@ -2,6 +2,8 @@ import React from 'react';
 import {Navbar, Brand, CTA} from "./components";
 import {Footer, Blog, Possibility, Features, WhatGPT, Header} from "./containers"
 
+import "./App.css";
+
 const App = () => {
     return (
         <div className="App">
