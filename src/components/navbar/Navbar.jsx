@@ -20,7 +20,7 @@ const Navbar = () => {
                 </div>
             </div>
             <div className="gpt3__navbar-sign">
-                <p>Signin</p>
+                <p>Sing in</p>
                 <button type="button">Sing up</button>
             </div>
         </div>
